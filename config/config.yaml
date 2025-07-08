@@ -1,0 +1,10 @@
+data:
+  movies: "data/MovieLens100k/movies.csv"
+  ratings: "data/MovieLens100k/ratings.csv"
+
+
+model:
+  svd:
+    type: "SVD"
+    params: {}
+
