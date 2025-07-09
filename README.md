@@ -47,8 +47,12 @@ Both metrics are computed using **k-fold cross-validation** (3-fold and 5-fold).
 
 ## How to Use
 ```bash
+git clone https://github.com/brendanros31/ML-Recommendation-Engine-MovieLens100k.git
+
+cd ML-Recommendation-Engine-MovieLens100k
+
 pip install -r requirements.txt
-python main.ipynb
+jupyter notebook main.ipynb
 ```
 
 ---
